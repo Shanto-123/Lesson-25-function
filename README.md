@@ -1,1 +1,2 @@
 # Lesson-25-function
+The first function `Total_cost(price, shipping, discount)` calculates and prints the total cost by adding the `price` and `shipping` and subtracting the `discount`. When called with the arguments `15`, `3`, and `2`, it prints "Total cost: $16". The second function `welcome(name, last_name)` prints a greeting message using the `name` and `last_name` provided. When called with `"Shanto"` and `"Chandra Das"`, it prints "Hii! Shanto Chandra Das". Both functions demonstrate how to use parameters and formatted strings to display dynamic output.
